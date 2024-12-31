@@ -1,0 +1,2 @@
+<h1>Projeto METEORA da Alura</h1> 
+<p> Este projeto tem como objetivo ser uma ferramenta educacional, apresentando um layout desenvolvido com a Alura no curso de Bootstrap. Ele foi criado para demonstrar as funcionalidades e aplicações do framework de forma prática e didática. </p>
